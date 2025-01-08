@@ -117,23 +117,24 @@ PC用のスタイル
     margin: 80px 0 30px 20px;
   }
 
-  #nav-sp > a {
+  #nav-sp a {
     display: block;
+    padding: 10px 20px;
   }
 
-  #nav-sp > a:link {
+  #nav-sp a:link {
     color: #ffffff;
   }
 
-  #nav-sp > a:visited {
+  #nav-sp a:visited {
     color: #ffffff;
   }
 
-  #nav-sp > a:hover {
+  #nav-sp a:hover {
     text-decoration: underline;
   }
 
-  #nav-sp > a:active {
+  #nav-sp a:active {
     color: #ffffff;
   }
 
